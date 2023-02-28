@@ -1,0 +1,4 @@
+Common: 12341234,BINH,binh123@gmail.com,9,9; Display: 1,1,1; Sound: 0,0,0,0; General: GMT+05:45,0 / Polish
+Common: 23452345,BAO TRAN,baotran@gmail.com,234,234; Display: 2,2,2; Sound: 2,2,2,2; General: GMT-00:00,English
+Common: 12345678,BINH,binh@gmail.com,5,5; Display: 5,5,5; Sound: 0,0,0,0; General: GMT-00:00,English
+Common: 34563456,ANH THU,anhthu@gmail.com,576,248; Display: 3,3,3; Sound: 0,0,0,0; General: GMT+07:00,2 / Spanish
